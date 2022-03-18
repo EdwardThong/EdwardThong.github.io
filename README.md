@@ -1,6 +1,6 @@
-# Welcome to my site source code page!
+# THIS SITE IS CURRENTLY IN CONSTRUCTION.
 
-Here is where you could find the source code for my site that is currently in development. I don't know when will I finish and host it as my page. But I'll let you know if I do so :)
+THIS SITE IS CURRENTLY DEVELOPING SO PLEASE BE PATIENT WHILE I GET MY SITE ONLINE AS FAST AS POSSIBLE. Thanks :D
 
 Good luck,
 - Edward
